@@ -1,0 +1,33 @@
+medical_specialty,transcription,cleaned_transcription
+Cardiology,"Patient presents with chest pain, shortness of breath, and elevated cardiac enzymes. ECG shows ST elevation.","patient presents with chest pain, shortness of breath, and elevated cardiac enzymes. ecg shows st elevation."
+Cardiology,History of hypertension and coronary artery disease. Complains of palpitations and dizziness.,history of hypertension and coronary artery disease. complains of palpitations and dizziness.
+Neurology,"Patient reports recurrent headaches, blurred vision, and numbness in the left arm.","patient reports recurrent headaches, blurred vision, and numbness in the left arm."
+Neurology,MRI shows lesions consistent with multiple sclerosis. Patient has weakness and sensory loss.,mri shows lesions consistent with multiple sclerosis. patient has weakness and sensory loss.
+Orthopedics,Severe knee pain after fall. X-ray confirms tibial fracture.,severe knee pain after fall. x ray confirms tibial fracture.
+Orthopedics,Chronic lower back pain with reduced range of motion and muscle spasms.,chronic lower back pain with reduced range of motion and muscle spasms.
+Gastroenterology,"Patient complains of abdominal pain, bloating, and chronic diarrhea.","patient complains of abdominal pain, bloating, and chronic diarrhea."
+Gastroenterology,Endoscopy reveals gastric ulcers and inflammation.,endoscopy reveals gastric ulcers and inflammation.
+Pulmonology,"Shortness of breath, wheezing, and productive cough. Suspected COPD.","shortness of breath, wheezing, and productive cough. suspected copd."
+Pulmonology,Chest X-ray shows infiltrates consistent with pneumonia.,chest x ray shows infiltrates consistent with pneumonia.
+Dermatology,Patient presents with itchy rash and erythematous skin lesions.,patient presents with itchy rash and erythematous skin lesions.
+Dermatology,Psoriatic plaques noted on elbows and scalp.,psoriatic plaques noted on elbows and scalp.
+Endocrinology,Elevated blood glucose levels with frequent urination and excessive thirst.,elevated blood glucose levels with frequent urination and excessive thirst.
+Endocrinology,Thyroid function tests indicate hypothyroidism.,thyroid function tests indicate hypothyroidism.
+Nephrology,Patient shows elevated creatinine and reduced urine output.,patient shows elevated creatinine and reduced urine output.
+Nephrology,Ultrasound reveals bilateral kidney stones.,ultrasound reveals bilateral kidney stones.
+Emergency Room Reports,Patient arrived with trauma following road traffic accident.,patient arrived with trauma following road traffic accident.
+Emergency Room Reports,Acute loss of consciousness with hypotension.,acute loss of consciousness with hypotension.
+Radiology,CT scan of the abdomen performed to evaluate internal bleeding.,ct scan of the abdomen performed to evaluate internal bleeding.
+Radiology,MRI of the brain shows no acute abnormalities.,mri of the brain shows no acute abnormalities.
+Surgery,Post-operative wound infection with fever and tenderness.,post operative wound infection with fever and tenderness.
+Surgery,Patient scheduled for appendectomy due to acute appendicitis.,patient scheduled for appendectomy due to acute appendicitis.
+Urology,Hematuria and flank pain suggest renal colic.,hematuria and flank pain suggest renal colic.
+Urology,Prostate enlargement causing urinary retention.,prostate enlargement causing urinary retention.
+Obstetrics / Gynecology,Pregnant patient presents with lower abdominal pain.,pregnant patient presents with lower abdominal pain.
+Obstetrics / Gynecology,Routine antenatal checkup with normal fetal heart rate.,routine antenatal checkup with normal fetal heart rate.
+Psychiatry,"Patient reports anxiety, insomnia, and depressive thoughts.","patient reports anxiety, insomnia, and depressive thoughts."
+Psychiatry,History of bipolar disorder with recent manic episode.,history of bipolar disorder with recent manic episode.
+Hematology - Oncology,Anemia with low hemoglobin and fatigue.,anemia with low hemoglobin and fatigue.
+Hematology - Oncology,Chemotherapy initiated for lymphoma.,chemotherapy initiated for lymphoma.
+General Medicine,"Fever, fatigue, and body aches suggest viral infection.","fever, fatigue, and body aches suggest viral infection."
+General Medicine,Routine health checkup with normal vitals.,routine health checkup with normal vitals.
