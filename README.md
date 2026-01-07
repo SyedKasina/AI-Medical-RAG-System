@@ -152,43 +152,13 @@ This ensures **trust, transparency, and regulatory readiness**.
 
 | Layer         | Tools             |
 | ------------- | ----------------- |
-| Programming   | Python 3.9+       |
+| Programming   | Python 3.8+       |
 | Deep Learning | PyTorch           |
 | NLP Models    | BioBERT, BART, T5 |
 | Retrieval     | FAISS             |
 | Preprocessing | Pandas, NumPy     |
 | XAI           | SHAP, LIME        |
 | IDE           | VS Code           |
-
----
-
-## 📂 Project Structure
-
-```
-medical-ai-project/
-│── data/
-│   ├── raw/
-│   ├── processed/
-│
-│── models/
-│   ├── biobert_encoder.py
-│   ├── bilstm_classifier.py
-│   ├── generator.py
-│
-│── retrieval/
-│   ├── faiss_index.py
-│
-│── explainability/
-│   ├── shap_explainer.py
-│   ├── lime_explainer.py
-│
-│── pipeline/
-│   ├── preprocess.py
-│   ├── inference.py
-│
-│── requirements.txt
-│── README.md
-```
 
 ---
 
@@ -235,12 +205,6 @@ This project demonstrates:
 * Advanced Biomedical NLP
 * Retrieval-Augmented Reasoning
 * Explainable AI in healthcare
-
-Suitable for:
-
-* Final-year engineering projects
-* MSc / MCA dissertations
-* AI healthcare research prototypes
 
 ---
 
